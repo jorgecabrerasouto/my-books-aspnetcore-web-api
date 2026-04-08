@@ -25,7 +25,6 @@ namespace my_books.Data
                         DateRead = DateTime.Now.AddDays(-250),
                         Rate = 4,
                         Genre = "Web programming",
-                        Author = "Jon Ducket",
                         CoverUrl = "https:...",
                         DateAdded = DateTime.Now
 
@@ -36,7 +35,6 @@ namespace my_books.Data
                         Description = "Design and buil websites",
                         IsRead = false,
                         Genre = "Web programming",
-                        Author = "Jon Ducket",
                         CoverUrl = "https:...",
                         DateAdded = DateTime.Now
 
